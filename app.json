@@ -1,7 +1,7 @@
 {
   "name": "PgHero",
   "description": "A performance dashboard for Postgres",
-  "repository": "https://github.com/pghero/pghero",
+  "repository": "https://github.com/NaisilaPuka/pghero-1",
   "keywords": ["postgres"],
   "env": {
     "PGHERO_DATABASE_URL": {
